@@ -17,4 +17,22 @@ This repository keeps a clean, public record of non-sensitive work, milestones a
 
 ---
 
-**Note:** Sensitive code, private APKs and internal details live in the private repository `Beni-Repository-HUB`.
+## Security Rules (Strict)
+
+**This repository must NEVER contain sensitive information.**
+
+Absolutely forbidden:
+- Passwords
+- Tokens
+- API Keys
+- Secrets
+- Authentication credentials
+- Private source code
+- Confidential project details
+- Any other security-related information
+
+Only non-sensitive summaries and public achievements are allowed.
+
+---
+
+**Note:** Sensitive code, private APKs and internal details live only in the private repositories.
